@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Knoten(Stadt)
+comment1.params=
+comment1.target=Stadt\ inhaltGeben()
+comment2.params=markierung
+comment2.target=void\ markierungSetzen(boolean)
+comment3.params=
+comment3.target=boolean\ markierungGeben()
+comment4.params=
+comment4.target=Knoten\ vorg\u00E4ngerGeben()
+comment5.params=v
+comment5.target=void\ vorg\u00E4ngerSetzen(Knoten)
+comment6.params=
+comment6.target=int\ pfadgewichtGeben()
+comment7.params=gewicht
+comment7.target=void\ pfadgewichtSetzen(int)
+numComments=8

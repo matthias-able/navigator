@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=Prioriti\u00E4tswarteschlange(int)
+comment1.params=k
+comment1.target=void\ knotenEinf\u00FCgen(Knoten)
+comment1.text=\ \ void\ knotenEinf\u00FCgen\n\ \ @params\:\ einzuf\u00FCgender\ Knoten\ k\n
+comment2.params=
+comment2.target=boolean\ istLeer()
+comment3.params=
+comment3.target=Knoten\ firstOut()
+numComments=4

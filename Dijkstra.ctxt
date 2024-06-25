@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=G\ startIndex
+comment0.target=void\ GraphInit(Graph,\ int)
+comment0.text=\ void\ GraphInit()\n\ @params\:\ Graph\ G,\ int\ startIndex\n\ Initialisierung\ des\ Graphen\n
+comment1.params=G\ startIndex
+comment1.target=void\ dijkstra_algorithmus(Graph,\ int)
+comment1.text=\ void\ dijkstra_algorithmus()\n\ @params\:\ Graph\ G,\ int\ startIndex\n\ Ausf\u00FChrung\ des\ Dijkstraalgorithmus\n
+comment2.params=G\ uIndex\ vIndex
+comment2.target=void\ relaxation(Graph,\ int,\ int)
+comment2.text=\ void\ relaxation\n\ @params\:\ Graph\ G,\ int\ uIndex,\ int\ vIndex\n\ Relaxationsschritt\ f\u00FCr\ den\ Dijkstraalgorithmus\n
+comment3.params=G\ startIndex\ zielIndex
+comment3.target=Knoten[]\ wegFinden(Graph,\ int,\ int)
+comment3.text=\ Knoten\ []\ wegFinden()\n\ @params\:\ int\ startIndex\ als\ Index\ des\ Startknoten,\ int\ zielIndex\ als\ Index\ des\ Zielknotens\n\ k\u00FCrzesten\ Weg\ der\ gew\u00FCnschten\ Route\ nach\ Dijkstra\ finden\ und\ als\ Feldfreihenfolge\ ausgeben\n\ return\:\ Knoten\ array\ mit\ Route\ in\ Reihenfolge\ Ziel-Startknoten\n
+comment4.params=G\ startIndex\ zielIndex
+comment4.target=Knoten[]\ routeStartUp(Graph,\ int,\ int)
+comment4.text=\ Knoten[]\ routeStartUp\n\ @params\:\ Graph\ G,\ int\ startIndex,\ int\ zielIndex\n\ return\:\ Knoten[]\ route\n\ Ausf\u00FChrung\ des\ Dijkstra-Algorithmus\n
+numComments=5

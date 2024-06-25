@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Launch\ the\ application.\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=Fenster()
+comment2.text=\r\n\ Create\ the\ frame.\r\n
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ btnStreckeBerechnen_ActionPerformed(java.awt.event.ActionEvent)
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=s\ ez
+comment0.target=Stadt(java.lang.String,\ int)
+comment1.params=s
+comment1.target=void\ attraktionEinfuegen(Sehensw\u00FCrdigkeit)
+comment2.params=
+comment2.target=Sehensw\u00FCrdigkeit[]\ attraktionGeben()
+comment3.params=
+comment3.target=int\ einwohnerzahlGeben()
+comment4.params=
+comment4.target=java.lang.String\ nameGeben()
+numComments=5
